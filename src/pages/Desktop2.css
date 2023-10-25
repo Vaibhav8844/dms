@@ -1,0 +1,303 @@
+.group-child25 {
+  position: absolute;
+  top: 1.56rem;
+  left: 3.25rem;
+  width: 90.16rem;
+  height: 7.26rem;
+}
+.home2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.21rem;
+  left: 0;
+}
+.about-us4,
+.emergency3 {
+  position: absolute;
+  top: 1.21rem;
+  left: 11.81rem;
+  display: inline-block;
+  width: 6.98rem;
+  height: 1.47rem;
+}
+.about-us4 {
+  top: 1.14rem;
+  left: 5.41rem;
+  width: 5.95rem;
+  cursor: pointer;
+}
+.group-child26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 37px;
+  background-color: #2745a9;
+  width: 11.13rem;
+  height: 3.78rem;
+}
+.registerlogin2 {
+  position: absolute;
+  top: 1.26rem;
+  left: 1.08rem;
+  display: inline-block;
+  width: 7.91rem;
+  height: 1.19rem;
+  cursor: pointer;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  left: 18.81rem;
+  width: 11.13rem;
+  height: 3.78rem;
+}
+.icon-user2 {
+  position: absolute;
+  height: 50.99%;
+  width: 5.16%;
+  top: 32.45%;
+  right: 3.19%;
+  bottom: 16.56%;
+  left: 91.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child27,
+.home-container {
+  position: absolute;
+  top: 3.41rem;
+  left: 60.5rem;
+  width: 29.94rem;
+  height: 3.78rem;
+}
+.group-child27 {
+  top: 3.51rem;
+  left: 4.94rem;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 8rem;
+  height: 3.43rem;
+}
+.image-16-icon2 {
+  position: absolute;
+  top: 3.78rem;
+  left: 3.25rem;
+  width: 17.94rem;
+  height: 2.88rem;
+  object-fit: cover;
+}
+.group-child28 {
+  position: absolute;
+  top: 0;
+  left: 2.94rem;
+  background-color: #202020;
+  width: 90.5rem;
+  height: 1.68rem;
+}
+.language9 {
+  margin: 0;
+}
+.language8 {
+  position: absolute;
+  top: 0.81rem;
+  left: -1.5rem;
+  display: inline-block;
+  width: 13.31rem;
+  height: 2.25rem;
+}
+.frame-div,
+.icon-arrow-down4 {
+  position: absolute;
+  overflow: hidden;
+}
+.icon-arrow-down4 {
+  height: 25.1%;
+  width: 8.08%;
+  top: 41.18%;
+  right: 12.27%;
+  bottom: 33.73%;
+  left: 79.65%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-div {
+  top: 10.06rem;
+  left: 79.69rem;
+  border-radius: 20px;
+  background-color: #171f2d;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 10.75rem;
+  height: 3.19rem;
+  text-align: center;
+  font-size: 1.25rem;
+}
+.vector-container {
+  position: absolute;
+  top: -0.19rem;
+  left: -3.25rem;
+  width: 93.44rem;
+  height: 13.25rem;
+}
+.group-child29 {
+  position: absolute;
+  top: calc(50% - 241.5px);
+  left: calc(50% - 315px);
+  border-radius: 7px;
+  background-color: #d9b99b;
+  width: 39.38rem;
+  height: 30.19rem;
+}
+.group-child30,
+.group-child31 {
+  position: absolute;
+  border-radius: 14px;
+}
+.group-child30 {
+  top: calc(50% - 94.5px);
+  left: calc(50% - 112.3px);
+  background-color: #fffefe;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 15.65rem;
+  height: 2.63rem;
+}
+.group-child31 {
+  top: calc(50% - 27.5px);
+  left: calc(50% - 116.3px);
+  width: 16.15rem;
+  height: 3.13rem;
+}
+.group-child32,
+.image-18-icon {
+  position: absolute;
+  left: calc(50% - 112.3px);
+}
+.group-child32 {
+  top: calc(50% - 155.5px);
+  border-radius: 14px;
+  background-color: #fffefe;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 15.65rem;
+  height: 2.63rem;
+}
+.image-18-icon {
+  top: calc(50% + 48.5px);
+  width: 16.15rem;
+  height: 3.94rem;
+  object-fit: cover;
+}
+.otp {
+  position: absolute;
+  top: calc(50% - 19.5px);
+  left: calc(50% - 219.6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5.46rem;
+  height: 1.63rem;
+}
+.mobile-number,
+.password {
+  position: absolute;
+  left: calc(50% - 242.5px);
+}
+.mobile-number {
+  top: calc(50% - 143.5px);
+  display: inline-block;
+  width: 7.45rem;
+}
+.password {
+  top: calc(50% - 88.5px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 6.89rem;
+  height: 2.25rem;
+}
+.register-here {
+  color: #00f;
+}
+.new-user-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.new-user-container {
+  position: absolute;
+  top: calc(50% + 174.5px);
+  left: calc(50% - 170.9px);
+  display: flex;
+  align-items: center;
+  width: 23.41rem;
+  height: 2.69rem;
+  cursor: pointer;
+}
+.group-child33,
+.login {
+  position: absolute;
+  top: calc(50% - 23px);
+}
+.group-child33 {
+  left: calc(50% - 70.05px);
+  border-radius: 11px;
+  width: 8.76rem;
+  height: 2.88rem;
+}
+.login {
+  left: calc(50% - 43.45px);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5.17rem;
+  height: 2.52rem;
+}
+.vector-parent1 {
+  position: absolute;
+  top: calc(50% - 220.5px);
+  left: calc(50% - 67.6px);
+  width: 8.76rem;
+  height: 2.88rem;
+  font-size: 1.25rem;
+  color: #fff;
+}
+.group-button {
+  width: 7.21rem;
+  position: absolute;
+  top: calc(50% + 130.5px);
+  left: calc(50% - 44.7px);
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 16.5rem;
+  left: 13.41rem;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: calc(50% - 208.5px);
+  left: calc(50% - 308px);
+  box-shadow: 5px 7px 4px rgba(0, 0, 0, 0.25);
+  width: 39.38rem;
+  height: 30.19rem;
+  text-align: center;
+  color: #000;
+}
+.desktop-2 {
+  position: relative;
+  background-color: #d3d2cf;
+  width: 100%;
+  height: 58.81rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1rem;
+  color: #fff;
+  font-family: Inter;
+}

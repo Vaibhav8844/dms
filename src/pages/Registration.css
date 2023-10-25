@@ -1,0 +1,384 @@
+.group-child12 {
+  position: absolute;
+  top: 1.56rem;
+  left: 3.25rem;
+  width: 90.16rem;
+  height: 7.26rem;
+}
+.about-us3,
+.emergency2,
+.home1 {
+  position: absolute;
+  top: 1.21rem;
+  display: inline-block;
+  height: 1.47rem;
+}
+.home1 {
+  left: 0;
+  width: 5.41rem;
+  cursor: pointer;
+}
+.about-us3,
+.emergency2 {
+  left: 11.81rem;
+  width: 6.98rem;
+}
+.about-us3 {
+  top: 1.14rem;
+  left: 5.41rem;
+  width: 5.95rem;
+  cursor: pointer;
+}
+.group-child13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 37px;
+  background-color: #2745a9;
+  width: 11.13rem;
+  height: 3.78rem;
+}
+.registerlogin1 {
+  position: absolute;
+  top: 1.26rem;
+  left: 1.08rem;
+  display: inline-block;
+  width: 7.91rem;
+  height: 1.19rem;
+  cursor: pointer;
+}
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 18.81rem;
+  width: 11.13rem;
+  height: 3.78rem;
+}
+.icon-user1 {
+  position: absolute;
+  height: 51.16%;
+  width: 5.16%;
+  top: 32.95%;
+  right: 3.19%;
+  bottom: 15.89%;
+  left: 91.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child14,
+.home-group {
+  position: absolute;
+  top: 3.41rem;
+  left: 60.5rem;
+  width: 29.94rem;
+  height: 3.78rem;
+}
+.group-child14 {
+  top: 3.51rem;
+  left: 4.94rem;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 8rem;
+  height: 3.43rem;
+}
+.image-16-icon1 {
+  position: absolute;
+  top: 3.78rem;
+  left: 3.25rem;
+  width: 17.94rem;
+  height: 2.88rem;
+  object-fit: cover;
+}
+.group-child15 {
+  position: absolute;
+  top: 0;
+  left: 2.94rem;
+  background-color: #202020;
+  width: 90.5rem;
+  height: 1.68rem;
+}
+.language7 {
+  margin: 0;
+}
+.language6 {
+  position: absolute;
+  top: 0.81rem;
+  left: -1.5rem;
+  display: inline-block;
+  width: 13.31rem;
+  height: 2.25rem;
+}
+.icon-arrow-down3 {
+  position: absolute;
+  height: 25.1%;
+  width: 8.08%;
+  top: 41.18%;
+  right: 12.27%;
+  bottom: 33.73%;
+  left: 79.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.language-container {
+  position: absolute;
+  top: 9.88rem;
+  left: 79.69rem;
+  border-radius: 20px;
+  background-color: #171f2d;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 10.75rem;
+  height: 3.19rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.25rem;
+}
+.vector-group {
+  position: absolute;
+  top: 0;
+  left: -3.25rem;
+  width: 93.44rem;
+  height: 13.06rem;
+  text-align: left;
+  color: #fff;
+}
+.registration-child {
+  position: absolute;
+  top: 12.44rem;
+  left: 17.44rem;
+  border-radius: 25px;
+  background-color: #d9b99b;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 55.44rem;
+  height: 34.25rem;
+}
+.span {
+  color: #ee5050;
+}
+.gender-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.gender {
+  position: absolute;
+  top: 31.19rem;
+  left: 47.5rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 8.31rem;
+  height: 1.81rem;
+  mix-blend-mode: normal;
+}
+.register1 {
+  position: absolute;
+  top: 1.63rem;
+  left: -0.69rem;
+  display: inline-block;
+  width: 10.94rem;
+  height: 1.88rem;
+}
+.register-wrapper {
+  position: absolute;
+  top: 36.81rem;
+  left: 40.31rem;
+  border-radius: 35px;
+  background-color: #171f2d;
+  width: 9.06rem;
+  height: 4.19rem;
+  overflow: hidden;
+  font-size: 1.25rem;
+  color: #fff9f9;
+}
+.group-child16,
+.group-child17 {
+  position: absolute;
+  width: 12.81rem;
+}
+.group-child16 {
+  top: 13.61rem;
+  left: 0;
+  border-radius: 7px;
+  background-color: #fff;
+  height: 2.2rem;
+}
+.group-child17 {
+  top: 10.24rem;
+}
+.group-child17,
+.group-child18,
+.group-child19 {
+  left: 0;
+  border-radius: 7px;
+  background-color: #fff;
+  height: 2.2rem;
+}
+.group-child18 {
+  position: absolute;
+  top: 0;
+  width: 12.81rem;
+}
+.group-child19 {
+  top: 6.88rem;
+}
+.group-child19,
+.group-child20,
+.group-div {
+  position: absolute;
+  width: 12.81rem;
+}
+.group-child20 {
+  top: 3.37rem;
+  left: 0;
+  border-radius: 7px;
+  background-color: #fff;
+  height: 2.2rem;
+}
+.group-div {
+  top: 17.31rem;
+  left: 55.81rem;
+  height: 15.81rem;
+}
+.group-child21,
+.group-child22,
+.group-child23,
+.group-child24 {
+  position: absolute;
+  left: 0;
+  border-radius: 7px;
+  background-color: #fff;
+  width: 12.81rem;
+}
+.group-child21 {
+  top: 10.44rem;
+  height: 5.5rem;
+}
+.group-child22,
+.group-child23,
+.group-child24 {
+  height: 2.22rem;
+}
+.group-child22 {
+  top: 0;
+}
+.group-child23,
+.group-child24 {
+  top: 6.93rem;
+}
+.group-child24 {
+  top: 3.39rem;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 17.31rem;
+  left: 29.25rem;
+  width: 12.81rem;
+  height: 15.94rem;
+}
+.span1 {
+  color: #f5212c;
+}
+.email-id {
+  position: absolute;
+  top: 3.56rem;
+  left: 28.44rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 8.31rem;
+  height: 1.81rem;
+  mix-blend-mode: normal;
+}
+.uididentity-proof {
+  top: 7.13rem;
+  justify-content: center;
+}
+.phone-no,
+.profession,
+.uididentity-proof {
+  position: absolute;
+  left: 28.44rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 8.31rem;
+  height: 1.81rem;
+  mix-blend-mode: normal;
+}
+.phone-no {
+  top: 0;
+}
+.profession {
+  top: 10.19rem;
+}
+.span4 {
+  color: #fb1717;
+}
+.address,
+.for-rescue-personnel {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.address {
+  top: 11.75rem;
+  left: 0.75rem;
+  font-weight: 500;
+  width: 8.25rem;
+  height: 1.81rem;
+  mix-blend-mode: normal;
+}
+.for-rescue-personnel {
+  top: 7.06rem;
+  left: 35.31rem;
+  font-size: 0.75rem;
+  font-weight: 100;
+  justify-content: center;
+  width: 11.25rem;
+  height: 1.69rem;
+}
+.first-name,
+.last-name,
+.state-of-residence-container {
+  position: absolute;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  mix-blend-mode: normal;
+}
+.state-of-residence-container {
+  top: 7.06rem;
+  left: 0;
+  width: 9rem;
+}
+.first-name,
+.last-name {
+  top: 0.19rem;
+  left: 0.75rem;
+  width: 8.25rem;
+  height: 1.81rem;
+}
+.last-name {
+  top: 3.56rem;
+}
+.email-id-parent {
+  position: absolute;
+  top: 17.5rem;
+  left: 19.06rem;
+  width: 46.56rem;
+  height: 13.56rem;
+}
+.registration {
+  position: relative;
+  background-color: beige;
+  width: 100%;
+  height: 70.06rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1rem;
+  color: #000;
+  font-family: Inter;
+}
